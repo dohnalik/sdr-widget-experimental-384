@@ -1,0 +1,45 @@
+src/flashyBlinky.d src/flashyBlinky.o: ../src/flashyBlinky.c \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/compiler.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/preprocessor.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/tpaste.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/stringz.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/mrepeat.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/preprocessor.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/parts.h \
+ ../src/SOFTWARE_FRAMEWORK/DRIVERS/GPIO/gpio.h \
+ ../src/SOFTWARE_FRAMEWORK/BOARDS/board.h \
+ ../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/SDRwdgt.h \
+ ../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/led.h \
+ ../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/SDR-Widget.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/conf_isp.h \
+ ../src/SOFTWARE_FRAMEWORK/UTILS/compiler.h ../src/flashyBlinky.h
+
+../src/SOFTWARE_FRAMEWORK/UTILS/compiler.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/preprocessor.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/tpaste.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/stringz.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/mrepeat.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/PREPROCESSOR/preprocessor.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/parts.h:
+
+../src/SOFTWARE_FRAMEWORK/DRIVERS/GPIO/gpio.h:
+
+../src/SOFTWARE_FRAMEWORK/BOARDS/board.h:
+
+../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/SDRwdgt.h:
+
+../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/led.h:
+
+../src/SOFTWARE_FRAMEWORK/BOARDS/SDRwdgtLite/SDR-Widget.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/conf_isp.h:
+
+../src/SOFTWARE_FRAMEWORK/UTILS/compiler.h:
+
+../src/flashyBlinky.h:
